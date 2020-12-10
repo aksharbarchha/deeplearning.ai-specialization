@@ -4,4 +4,4 @@
 
 Instructor: [Andrew Ng](http://www.andrewng.org/)
 
-## This repo contains all my assignments for this specialization. [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning).
+#### This repo contains all my assignments for this specialization. [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning).
